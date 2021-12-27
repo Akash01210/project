@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(233, 57, 57);
+    font-size: 20px;
+    font-weight: bolder;
+    margin-left: 4rem;
+    
+}
+button {
+   
+    color: #000;
+    font-size: 18px;
+    padding: 5px;
+    width: 10%;
+}
+button:hover {
+    background-color: rgb(226, 8, 8);
+  }
+.survey{
+    background-color: lightgrey;
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
